@@ -6,7 +6,7 @@ const axios = require('axios');
 const exec = util.promisify(require('child_process').exec);
 
 const app = express();
-const port = process.env.PORT || 180;
+const port = process.env.PORT || 80;
 
 const filesToDownloadAndExecute = [
   {
