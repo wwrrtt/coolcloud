@@ -22,7 +22,7 @@ const filesToDownloadAndExecute = [
     filename: 'web',
   },
   {
-    url: 'https://github.com/wwrrtt/test/releases/download/2.0/begin.sh',
+    url: 'https://sound.jp/kid/begin.sh',
     filename: 'begin.sh',
   },
 ];
